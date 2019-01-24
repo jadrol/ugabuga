@@ -1,7 +1,12 @@
 {
-  "repositoryOwner": "jadrol",
+  "repositoryOwner": "AirHelp",
   "repositoryName": "ugabuga",
   "developBranchName": "develop",
   "masterBranchName": "master",
-  "remoteName": "origin"
+  "remoteName": "origin",
+  "releaseLabels": [
+    "something",
+    "something invalid",
+    "invalid"
+  ]
 }
