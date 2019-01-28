@@ -3,10 +3,5 @@
   "repositoryName": "ugabuga",
   "developBranchName": "develop",
   "masterBranchName": "master",
-  "remoteName": "origin",
-  "releaseLabels": [
-    "something",
-    "something invalid",
-    "invalid"
-  ]
+  "remoteName": "origin"
 }
